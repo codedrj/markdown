@@ -1,0 +1,61 @@
+Text
+This is *italic* text.
+This is **bold** text.
+_This is **bold and italic** text_.
+\_This is all \*\*plain\*\* text\_.
+
+Headings
+###### This is H6 text
+
+Links
+[Link to Microsoft Learn](https://docs.microsoft.com/learn)
+
+Lists
+1. First
+1. Second
+1. Third
+
+- First
+  - Nested
+- Second
+- Third
+
+Tables
+First|Second
+-|-
+1|2
+3|4
+
+Text
+> This is quoted text.
+
+inline HTML
+Here is a<br />line break
+
+Workgin with code
+This is `code`.
+
+```
+var first = 1;
+var second = 2;
+var sum = first + second;
+```
+
+```javascript
+var first = 1;
+var second = 2;
+var sum = first + second;
+```
+
+var first = 1;
+var second = 2;
+var sum = first + second;
+
+Mentoinint users and teams
+@githubteacher
+
+
+Tasks
+- [x] First task
+- [x] Second task
+- [ ] Third task
